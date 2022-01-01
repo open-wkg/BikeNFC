@@ -8,7 +8,7 @@
 
 安装 **哈啰** app，下载安装
 
-[BikeNFC app]: https://github.com/open-wkg/BikeNFC/releases
+[BikeNFC app]:https://github.com/open-wkg/BikeNFC/releases
 
 ，准备一张nfc标签，下载NFC Tools工具或者其他写nfc标签工具(以下以NFC Tools为例)：
 
